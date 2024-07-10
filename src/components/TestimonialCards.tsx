@@ -37,7 +37,7 @@ const musicSchoolTestimonials = [
 
 function TestimonialCards() {
     return (
-        <div className="h-[30rem] w-full dark:bg-black bg-white  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative flex 
+        <div className="h-[35rem] w-full dark:bg-black bg-white  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative flex 
         flex-col items-center justify-center">
             <h2 className="text-3xl font-bold text-center mb-8 z-10 dark:text-white">
                 Hear Our Harmony: Voices of Success

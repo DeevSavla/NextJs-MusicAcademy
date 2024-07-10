@@ -42,14 +42,14 @@ function page() {
               translateZ="60"
               className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
             >
-              Instructor:{course.instructor}
+              Instructor: {course.instructor}
             </CardItem>
             <CardItem
               as="p"
               translateZ="60"
               className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
             >
-              Price:{course.price}
+              Price: ${course.price}
             </CardItem>
             <CardItem translateZ="100" className="w-full mt-4">
               <Image
